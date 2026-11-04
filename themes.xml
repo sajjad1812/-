@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.IosExperience" parent="android:Theme.DeviceDefault.NoActionBar" />
+    <style name="Theme.IosExperience.Launcher" parent="android:Theme.Material.Wallpaper.NoTitleBar">
+        <item name="android:windowShowWallpaper">true</item>
+    </style>
+</resources>

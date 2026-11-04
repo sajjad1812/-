@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iOS Experience</string>
+    <string name="launcher_label">صفحه اصلی iOS</string>
+    <string name="set_default">تنظیم به‌عنوان لانچر پیش‌فرض</string>
+    <string name="section_modules">ماژول‌ها</string>
+    <string name="section_appearance">ظاهر</string>
+    <string name="mod_icons">آیکون‌های سبک iOS</string>
+    <string name="mod_glass">سطوح شیشه‌ای</string>
+    <string name="mod_anim">انیمیشن‌ها</string>
+    <string name="mod_haptics">بازخورد لرزشی</string>
+    <string name="mod_island">دینامیک آیلند</string>
+    <string name="mod_control">مرکز کنترل</string>
+    <string name="mod_lock">صفحه قفل</string>
+    <string name="mod_keyboard">کیبورد</string>
+    <string name="status_planned">برنامه‌ریزی‌شده</string>
+    <string name="planned_note">ماژول‌های برنامه‌ریزی‌شده هنوز پیاده‌سازی نشده‌اند و قابل روشن‌کردن نیستند.</string>
+    <string name="corner_radius">گردی گوشه آیکون</string>
+    <string name="grid_columns">تعداد ستون‌ها</string>
+    <string name="glass_opacity">شفافیت شیشه</string>
+    <string name="search_apps">جستجوی برنامه‌ها</string>
+    <string name="dock_hint">برای افزودن یا حذف از داک، روی برنامه نگه دارید (حداکثر ۴)</string>
+    <string name="island_notification">دینامیک آیلند فعال است</string>
+    <string name="island_charging">در حال شارژ</string>
+    <string name="island_battery">باتری</string>
+    <string name="island_hint">به مجوز «نمایش روی سایر برنامه‌ها» نیاز دارد. برای باز شدن، روی آیلند بزنید.</string>
+    <string name="island_offset">فاصله آیلند از بالا</string>
+</resources>
